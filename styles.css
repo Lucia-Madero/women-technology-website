@@ -18,12 +18,12 @@ a {
 .nav a {
   color: #084192;
 }
-a:visited {
+a:link,
+a:visited,
+a:hover {
   color: #084192;
 }
-a:hover {
-  color: #8a334f;
-}
+
 .menu {
   display: flex;
   justify-content: flex-end;
