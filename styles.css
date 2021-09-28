@@ -142,6 +142,9 @@ a:hover {
   margin: 0;
   padding-left: 20px;
 }
+.lamarr-bio-first h4 {
+  color: #084192;
+}
 .lamarr-bio-second {
   padding: 20px;
 }
@@ -162,6 +165,9 @@ a:hover {
   margin: 0;
   padding-left: 20px;
 }
+.keller-bio-subtitle {
+  color: #084192;
+}
 .easley-bio-container {
   display: flex;
   align-items: flex-start;
@@ -177,6 +183,9 @@ a:hover {
   display: flex;
   margin: 0;
   padding-left: 20px;
+}
+.easley-bio-subtitle {
+  color: #084192;
 }
 .profile-picture {
   border-radius: 50px;
